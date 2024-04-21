@@ -1,0 +1,2 @@
+﻿  <asp:Label  runat="server" ForeColor="Red" BackColor="Black"></asp:Label>
+  <asp:Label  runat="server" ForeColor="Red" BackColor="Yellow" skinid="title"></asp:Label>
